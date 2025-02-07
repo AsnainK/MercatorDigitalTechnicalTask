@@ -1,8 +1,8 @@
 package org.mercatordigital.technicaltask.tests;
 
+import io.qameta.allure.Description;
 import org.mercatordigital.technicaltask.hooks.WebHooks;
 import org.mercatordigital.technicaltask.steps.HomePageSteps;
-import jdk.jfr.Description;
 import org.junit.jupiter.api.Test;
 
 public class QaTechnicalTaskTests extends WebHooks {
